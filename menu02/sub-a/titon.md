@@ -1,7 +1,7 @@
 ---
 title: sub-a
 permalink: menu02/sub-a
-description: "C:\outs\githubio\menu02\sub-a\titon.md"
+description: 'C:\outs\githubio\menu02\sub-a\titon.md'
 
 ---
 
@@ -11,5 +11,14 @@ description: "C:\outs\githubio\menu02\sub-a\titon.md"
 <h1> {{ page.title }} </h1>
 
 <p> {{ page.description }} </p>
+
+no index only me
+
 <p> {{ page.description }} </p>
+
+no index only me
+
 <p> {{ page.description }} </p>
+
+no index only me
+
