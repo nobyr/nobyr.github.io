@@ -218,3 +218,6 @@ Make youtube playlist: `http://www.youtube.com/watch_videos?video_ids=`
 
 __Youtube playlist__ [With a Google Sheet @labnol](https://docs.google.com/spreadsheets/d/1GMVA3MT-VUR56qXFQmERp4bEYagyuGSp85epsyJ5AkE/copy)
 
+
+
+![Image de sythese d'un vynil. Patch central rose fip](img/IMG_disque-fip.jpeg)
