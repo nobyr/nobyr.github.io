@@ -1,1 +1,1 @@
-Well newest {{ page.whowe }}
+Well newest
