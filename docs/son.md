@@ -220,4 +220,4 @@ __Youtube playlist__ [With a Google Sheet @labnol](https://docs.google.com/sprea
 
 
 
-![Image de sythese d'un vynil. Patch central rose fip](/imgs/IMG_disque-fip.jpeg)
+![Image de sythese d'un vynil. Patch central rose fip](../son/imgs/IMG_disque-fip.jpeg)
