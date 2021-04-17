@@ -1,7 +1,7 @@
 ---
 title: random
 permalink: random
-description: '"C:\outs\githubio\menu02\random-folder\random.md"'
+description: 'text'
 
 ---
 
