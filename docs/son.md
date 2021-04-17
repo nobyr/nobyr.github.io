@@ -10,7 +10,7 @@ description: 'like from fip app'
 > {{ page.description }}
 
 
-## How to
+### Owner's How to
 
 1. favorite list in fip app
 2. export to Notes app
@@ -18,15 +18,23 @@ description: 'like from fip app'
 4. add to this file
 5. preview vith 'command'+shift+p markdown
 
+
+### Users' Usage
+
 [__Artist__ song title](clickable) `Album` #feel
+
+
+
+### NOTES
+
+[__Artist__ song title FAKE LINK](https://github.com/nobyr/son/blob/master/fip.md) `Album` #feel
 
 Make youtube playlist: `http://www.youtube.com/watch_videos?video_ids=`
 
-__Youtube playlist__ [With a Google Sheet @labnol](https://docs.google.com/spreadsheets/d/1GMVA3MT-VUR56qXFQmERp4bEYagyuGSp85epsyJ5AkE/copy)
-
-***
-
 [OnDrive Public Link](https://boyer-my.sharepoint.com/:t:/g/personal/sun_boyer_onmicrosoft_com/EeHa2s4nsvNOiR8JPxSEilYBOHDHWnWC08xDNjGsUmpMBA?e=0sqkef)
+
+![Image de sythese d'un vynil. Patch central rose fip](img/IMG_disque-fip.jpeg)
+
 
 ***
 
@@ -209,15 +217,3 @@ __Youtube playlist__ [noname](https://www.youtube.com/watch?v=5cP_dkQXqmY&list=T
 - [__Robert Mitchum__ Matilda Matilda](https://www.youtube.com/watch?v=7fGNZP0p7Hk) sur `Calypso - Is Like So...` #cocojambo #singer 
 
 
-#NOTES
-======
-
-[__Artist__ song title FAKE LINK](https://github.com/nobyr/son/blob/master/fip.md) `Album` #feel
-
-Make youtube playlist: `http://www.youtube.com/watch_videos?video_ids=`
-
-__Youtube playlist__ [With a Google Sheet @labnol](https://docs.google.com/spreadsheets/d/1GMVA3MT-VUR56qXFQmERp4bEYagyuGSp85epsyJ5AkE/copy)
-
-
-
-![Image de sythese d'un vynil. Patch central rose fip](img/IMG_disque-fip.jpeg)
