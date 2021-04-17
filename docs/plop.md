@@ -1,5 +1,6 @@
 ---
 title: plop
+permalink: /
 description: 'try to default'
 
 ---
