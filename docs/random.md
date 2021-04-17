@@ -8,7 +8,6 @@ description: 'text'
 
 ## trying reachout
 
-<h1> {{ page.title }} </h1>
+{{ page.title }}
 
-<p> {{ page.description }} </p>
-<p> {{ page.description }} </p>
+{{ page.description }}
