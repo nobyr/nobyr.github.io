@@ -1,8 +1,13 @@
 ---
 layout: page
-title: "titon"
+title: titon
 permalink: /titon
+theme: jekyll-theme-midnight
+
+---
+
 
 ## newest
----
+
+
 hello World
