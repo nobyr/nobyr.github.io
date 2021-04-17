@@ -1,6 +1,6 @@
 ---
-title: plop
-permalink: /
+title: plop {{ page.title }}
+permalink: plop
 description: 'try to default'
 
 ---

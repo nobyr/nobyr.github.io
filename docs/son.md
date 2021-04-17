@@ -1,6 +1,6 @@
 ---
 title: fipped
-permalink: son
+permalink: /
 description: 'like from fip app'
 
 ---
