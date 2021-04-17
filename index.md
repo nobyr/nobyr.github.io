@@ -1,5 +1,6 @@
-Well 
+---
+whowe: index
+---
 
-newwest
 
-{{ date }}
+Well newest {{ page.whowe }}
