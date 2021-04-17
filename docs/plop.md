@@ -1,5 +1,5 @@
 ---
-title: plop {{ page.title }}
+title: plop
 permalink: plop
 description: 'try to default'
 
