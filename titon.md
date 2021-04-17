@@ -1,13 +1,17 @@
 ---
-layout: page
 title: titon
 permalink: /titon
-theme: jekyll-theme-midnight
+description: A very simple way to add structured data to a page.
 
 ---
+<h1> {{ title }} </h1>
 
+<p> {{ description }} </p>
 
-## newest
+## newest 23
 
+hello World
+
+hello World
 
 hello World

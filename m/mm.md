@@ -1,5 +1,5 @@
 ---
-title: YAML Front Matter
+title: mm
 description: A very simple way to add structured data to a page.
 
 ---
@@ -7,12 +7,8 @@ description: A very simple way to add structured data to a page.
 
 {{ description }}
 
-## newestnewestnewest
----
+## 12
 hello World inside
 
 
 hello World inside
-
-
----
