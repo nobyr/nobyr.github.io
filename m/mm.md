@@ -5,10 +5,11 @@ description: A very simple way to add structured data to a page.
 ---
 
 
-{{ description }}
 
 ## 12
 hello World inside
+
+{{ page.description }}
 
 
 hello World inside

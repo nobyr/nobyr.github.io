@@ -4,14 +4,14 @@ permalink: /titon
 description: A very simple way to add structured data to a page.
 
 ---
-<h1> {{ title }} </h1>
 
-<p> {{ description }} </p>
 
 ## newest 23
 
+<h1> {{ page.title }} </h1>
 hello World
 
+<p> {{ page.description }} </p>
 hello World
 
 hello World
