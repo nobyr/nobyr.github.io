@@ -1,3 +1,4 @@
 Well
 newwest
 
+{{date}}

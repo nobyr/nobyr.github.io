@@ -1,2 +1,6 @@
 theme: jekyll-theme-midnight
-title: toto
+title: Main public
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
